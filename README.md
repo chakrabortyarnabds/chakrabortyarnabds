@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data and Blockchain
 - 🌱 I’m currently learning Blockchain and learning to create DAPPs
 - 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me chakraborty.arnab.ds@gmail.com
+- 📫 How to reach me arnab.web3@gmail.com
 
 <!---
 chakrabortyarnabds/chakrabortyarnabds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
